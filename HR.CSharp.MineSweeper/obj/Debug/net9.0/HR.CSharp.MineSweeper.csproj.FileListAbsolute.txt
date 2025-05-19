@@ -1,0 +1,15 @@
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/bin/Debug/net9.0/HR.CSharp.MineSweeper
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/bin/Debug/net9.0/HR.CSharp.MineSweeper.deps.json
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/bin/Debug/net9.0/HR.CSharp.MineSweeper.runtimeconfig.json
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/bin/Debug/net9.0/HR.CSharp.MineSweeper.dll
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/bin/Debug/net9.0/HR.CSharp.MineSweeper.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.AssemblyInfoInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.AssemblyInfo.cs
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.csproj.CoreCompileInputs.cache
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.sourcelink.json
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.dll
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/refint/HR.CSharp.MineSweeper.dll
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.pdb
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/HR.CSharp.MineSweeper.genruntimeconfig.cache
+/Users/dannydesnoo/Documents/GitHub/HR.CSharp.MineSweeper/HR.CSharp.MineSweeper/obj/Debug/net9.0/ref/HR.CSharp.MineSweeper.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HR.CSharp.MineSweeper/1.0.0": {
+        "runtime": {
+          "HR.CSharp.MineSweeper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.CSharp.MineSweeper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
